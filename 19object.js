@@ -8,4 +8,4 @@ const student = {
     rollNo: "18-BIT-099",
 }
 
-console.log(student.hobbies[2]);
+console.log(student.firstName);

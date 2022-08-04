@@ -1,5 +1,5 @@
 
-items = ['Apple', 'Mango', 'Organge']
+// items = ['Apple', 'Mango', 'Organge']
 
 // items.forEach(abc => {
 //     console.log(abc)
@@ -9,9 +9,9 @@ items = ['Apple', 'Mango', 'Organge']
 //     console.log(items[i])
 // }
 
-for(i = 0; i<items.length; i++){
-    if(items[i] == 'Mango'){
-        continue;
-    }
-    console.log(items[i])
-}
+// for(i = 0; i<items.length; i++){
+//     if(items[i] == 'Mango'){
+//         continue;
+//     }
+//     console.log(items[i])
+// }

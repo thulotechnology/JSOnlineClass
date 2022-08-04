@@ -1,0 +1,8 @@
+{
+    "name": "Rajan Poudel",
+    "interest": ["Coding", "Technology"],
+    "address": {
+        "city": "Kathmandu",
+        "country": "Nepal"
+    }
+}
